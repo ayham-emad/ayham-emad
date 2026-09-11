@@ -15,7 +15,7 @@ try to be a software engineer from scratch
 
 🌱 &nbsp;I'm currently learning **learning CompTIA A+**  
 🤔 &nbsp;I'm looking for help with **idea's for practice projects**  
-⚡ &nbsp;Fun fact: **i made this github for future**
+⚡ &nbsp;stupid fact: **i made this github for future**
 
 ### 🛠️ Tech Stack
 
