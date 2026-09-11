@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm 16 year boy from Jordan🇯🇴   
+I'm 16 year boy from Jordan 🇯🇴   
 try to be a software engineer from scratch
 
 🌱 &nbsp;I'm currently **learning CompTIA A+**  
