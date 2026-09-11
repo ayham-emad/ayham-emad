@@ -13,7 +13,7 @@
 I'm 16 year boy from Jordan🇯🇴   
 try to be a software engineer from scratch
 
-🌱 &nbsp;I'm currently learning **learning CompTIA A+**  
+🌱 &nbsp;I'm currently learning ** CompTIA A+**  
 🤔 &nbsp;I'm looking for help with **idea's for practice projects**  
 ⚡ &nbsp;stupid fact: **i made this github for future**
 
