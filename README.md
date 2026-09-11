@@ -15,7 +15,7 @@ try to be a software engineer from scratch
 
 🌱 &nbsp;I'm currently learning **learning CompTIA A+**  
 🤔 &nbsp;I'm looking for help with **idea's for practice projects**  
-⚡ &nbsp;stupid fact: **i made this github for future**
+⚡ &nbsp;Fun fact: **i made this github for future**
 
 ### 🛠️ Tech Stack
 
@@ -34,14 +34,14 @@ try to be a software engineer from scratch
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ayham666demon-cmd&show_icons=true&theme=tokyonight&title_color=56d4dd&icon_color=56d4dd&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ayham-emad&show_icons=true&theme=tokyonight&title_color=56d4dd&icon_color=56d4dd&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ayham666demon-cmd&bg_color=00000000&color=56d4dd&line=56d4dd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ayham-emad&bg_color=00000000&color=56d4dd&line=56d4dd&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/ayham666demon-cmd">ayham666demon-cmd</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/ayham-emad">ayham-emad</a></i></p>
